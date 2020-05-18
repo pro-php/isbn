@@ -1,7 +1,6 @@
 # isbn
 Search isbn in sql
 
-https://dfaktor.bitrix24.ru/extranet/workgroups/group/154/tasks/task/view/13329/
 https://en.wikipedia.org/wiki/International_Standard_Book_Number
 
 +Нужно найти в description_ru все что похоже на isbn (10 или 13 цифр разделенных любым количеством любых символов).
